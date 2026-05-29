@@ -24,4 +24,4 @@ A representative GOES XRS FITS file is included for reproducibility.
 
 ## Author
 
-Your Name
+mnncsrma
