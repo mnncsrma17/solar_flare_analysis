@@ -7,7 +7,7 @@ import matplotlib
 matplotlib.rcParams['figure.dpi'] = 100
 
 # change if necessary
-file_path = r"C:\Users\mnncs\Downloads\flare stuff\go1520140329.fits"
+file_path = r"C:\Users\mnncs\Downloads\flare stuff\data\go1520140329.fits"
 
 hdul = fits.open(file_path)
 
