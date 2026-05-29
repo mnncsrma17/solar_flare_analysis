@@ -8,6 +8,7 @@ This repository contains a Python-based analysis of GOES XRS solar flare data us
 - Time series preprocessing
 - Entropy-complexity analysis
 - Visualization of flare evolution
+- Information Theoretic Approach
 
 ## Tools Used
 
